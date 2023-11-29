@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.2rem;
+}
+
+.text {
+    padding: 2rem 0;
+}
+
+.text button {
+    cursor: pointer;
+    padding: 0.4rem;
+}
